@@ -34,6 +34,10 @@ public class Dictionary {
 			return nextWord;
 	}
 	
+	public int size(){
+		return list.size();
+	}
+	
 	public static class SecretWord{
 		
 		private final String word;

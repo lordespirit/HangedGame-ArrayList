@@ -6,6 +6,7 @@ import org.junit.Test;
 
 import main.HangedModel;
 
+@Deprecated
 public class TestHangedModel {
 
 	@Test
